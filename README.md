@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding..
 - 🌱 I’m currently learning MCA..
 - 💞️ I’m looking to collaborate on new projects..
-- 📫 How to reach me ....
+- 📫 My Twitter Handle : @haris_mohanty
 
 <!---
 Haris-Mohanty/Haris-Mohanty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
