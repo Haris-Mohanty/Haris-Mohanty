@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haris-Mohanty
-- 👀 I’m interested in Coding and learning new tech..
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning MCA..
 - 💞️ I’m looking to collaborate on new projects..
 - 📫 My Twitter Handle : @haris_mohanty
