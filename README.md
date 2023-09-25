@@ -25,28 +25,6 @@ I'm Haris Chandra Mohanty, a aspiring MERN Stack Developer with a knack for turn
 - Deployment: Heroku, Netlify, AWS
 - Version Control: Git, GitHub
 
-## Projects
-
-### Project 1: [Project Name]
-
-![Project Image](https://github.com/yourusername/yourrepository/raw/main/assets/project1.png)
-
-- Description: Briefly describe the project and its purpose.
-- Technologies Used: List the technologies and libraries used.
-- [Live Demo](https://project1demo.com) | [GitHub Repo](https://github.com/yourusername/project1)
-
-### Project 2: [Project Name]
-
-![Project Image](https://github.com/yourusername/yourrepository/raw/main/assets/project2.png)
-
-- Description: Briefly describe the project and its purpose.
-- Technologies Used: List the technologies and libraries used.
-- [Live Demo](https://project2demo.com) | [GitHub Repo](https://github.com/yourusername/project2)
-
-### More Projects
-
-For more projects, please visit my [portfolio](https://yourwebsite.com).
-
 ## Contact Me
 
 Let's connect and collaborate on exciting projects:
