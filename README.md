@@ -22,6 +22,8 @@
 
 - 📫 How to reach me **harismohanty8658@gmail.com**
 
+- <div><img src="https://github-profile-trophy.vercel.app/?username=Haris-Mohanty&theme=dracula" /></div>
+
 <h3 align="left">Connect with me:</h3>
 <img align="right" height="150" src="https://boris.expert/wp-content/uploads/2021/01/webistedev-min.gif"  />
 
