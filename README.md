@@ -5,7 +5,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Haris Mohanty</h1>
-<h3 align="center">A passionate mern-stack developer from India.</h3>
+
+
+[![An image of @harismohanty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harismohanty)](https://holopin.io/@harismohanty)
+
 
 
 <p align="left"> <a href="https://twitter.com/haris_mohanty" target="blank"><img src="https://img.shields.io/twitter/follow/haris_mohanty?logo=twitter&style=for-the-badge" alt="haris_mohanty" /></a> </p>
