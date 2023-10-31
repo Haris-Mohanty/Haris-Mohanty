@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Haris Mohanty</h1>
 
 
-<h2>Hacktoberfest Rewards 2023</h2>
+<b>Hacktoberfest Rewards 2023</b>
 
 [![An image of @harismohanty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harismohanty)](https://holopin.io/@harismohanty)
 
