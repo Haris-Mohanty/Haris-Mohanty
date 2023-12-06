@@ -17,9 +17,9 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **mern stack or full stack projects**
+- 👯 I’m looking to collaborate on **Mern stack or full stack projects**
 
-- 🤝 I’m looking for help with **mern stack web development**
+- 🤝 I’m looking for help with **Mern stack web Development**
 
 - 👨‍💻 All of my projects are available at [https://haris-portfolios.netlify.app/](https://haris-portfolios.netlify.app/)
 
