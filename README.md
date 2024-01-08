@@ -19,8 +19,6 @@
 
 - 👯 I’m looking to collaborate on **Mern stack or full stack projects**
 
-- 🤝 I’m looking for help with **Mern stack web Development**
-
 - 👨‍💻 All of my projects are available at [https://haris-portfolios.netlify.app/](https://haris-portfolios.netlify.app/)
 
 - 💬 Ask me about **Mern stack and Full stack web development related.**
